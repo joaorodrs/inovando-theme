@@ -1,0 +1,21 @@
+{
+    "name": "inovando",
+    "displayName": "inovando",
+    "description": "A color theme based on the main Inovando colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Inovando Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Inovando Theme-color-theme.json"
+            }
+        ]
+    }
+}
