@@ -1,14 +1,31 @@
 {
-    "name": "inovando",
-    "displayName": "inovando",
+    "name": "inovando-theme",
+    "displayName": "Inovando",
     "description": "A color theme based on the main Inovando colors",
     "version": "0.0.1",
+    "publisher": "Inovando",
+    "author": {
+        "name": "João Paulo",
+        "email": "joao.paulo@inovan.do",
+        "url": "https://github.com/joaorodrs"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joaorodrs/inovando-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/joaorodrs/inovando-theme"
+    },
+    "galleryBanner": {
+        "color": "#25a7df",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
