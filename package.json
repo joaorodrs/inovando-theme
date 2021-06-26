@@ -2,7 +2,7 @@
     "name": "inovando-theme",
     "displayName": "Inovando",
     "description": "A color theme based on the main Inovando colors",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "publisher": "Inovando",
     "author": {
         "name": "João Paulo",
@@ -22,14 +22,24 @@
     "bugs": {
         "url": "https://github.com/joaorodrs/inovando-theme"
     },
+    "icon": "assets/theme-logo.png",
     "galleryBanner": {
         "color": "#25a7df",
         "theme": "dark"
     },
+    "keywords": [
+        "inovando",
+        "Inovando",
+        "tema inovando",
+        "inovando theme",
+        "dark",
+        "react",
+        "adonis"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "Inovando Theme",
+                "label": "Inovando",
                 "uiTheme": "vs-dark",
                 "path": "./themes/inovando-color-theme.json"
             }
