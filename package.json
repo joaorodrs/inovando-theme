@@ -10,7 +10,7 @@
         "url": "https://github.com/joaorodrs"
     },
     "engines": {
-        "vscode": "^1.57.0"
+        "vscode": "^1.56.0"
     },
     "categories": [
         "Themes"
@@ -31,7 +31,7 @@
             {
                 "label": "Inovando Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Inovando Theme-color-theme.json"
+                "path": "./themes/inovando-color-theme.json"
             }
         ]
     }
